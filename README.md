@@ -1,24 +1,24 @@
-# ReforgedKitPVP
+## ReforgedKitPvP
 
 ReforgedKitPvP is a open source project of an kitpvp plugin
 
-## 🛒 Plugin Version
+# 🛒 Plugin Version
 
 ReforgedKitPvP v1.0.0 
 
-## 💬 Discord
+# 💬 Discord
 
 You can come on the discord: https://discord.gg/AMt8KMuA
 
 ## Please leave a ⭐ to help the project!
 
-## 📂 Download
+# 📂 Download
 
 Download my plugin [here](https://discord.gg/AMt8KMuA)
 
-## - Information of Plugin -
+# - Information of Plugin -
 
-# ReforgedKitPvP Permissions
+## ReforgedKitPvP - Permissions
 
 * `reforgedkitpvp.dropsettings` - /dropsettings command
 * `reforgedkitpvp.admin` - /kitpvp command
@@ -32,7 +32,7 @@ Download my plugin [here](https://discord.gg/AMt8KMuA)
 * `reforgedkitpvp.setspawn` - Set spawn subcommand
 * `reforgedkitpvp.setstats` - Set stats subcommand
 
-# ReforgedKitPvP Commands
+## ReforgedKitPvP - Commands
 
 Main Commands:
 * `/kitpvp or /kp` - Main command
@@ -48,7 +48,7 @@ Sub Commands:
 * `/kitpvp announce <message>` - To send an announce
 * `/kitpvp reload` - To reload the plugin
 
-# ReforgedKitPvP Placeholders
+## ReforgedKitPvP - Placeholders
 
 * `%kitpvp_kills%` - The total player's kills
 * `%kitpvp_deaths%` - The total player's deaths
