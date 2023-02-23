@@ -2,6 +2,11 @@
 
 ReforgedKitPvP is a open source project of an kitpvp plugin
 
+## 🛒 Plugin Version
+
+ReforgedKitPvP v1.0.0 
+(Maintenance)
+
 ## 📄 Documentation
 
 The documentation is available [here](https://discord.gg/AMt8KMuA)
