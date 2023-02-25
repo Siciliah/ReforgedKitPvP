@@ -50,10 +50,10 @@ Sub Commands:
 
 ## ReforgedKitPvP - Placeholders
 
-* `%kitpvp_kills%` - The total player's kills
-* `%kitpvp_deaths%` - The total player's deaths
-* `%kitpvp_streak%` - The player current kill streak
-* `%kitpvp_combat%` - The player combat cooldown
-* `%kitpvp_enderpearl%` - The player enderpearl cooldown
-* `%kitpvp_bounty%` - The player bounty as number - Ex: 100.000
-* `%kitpvp_bounty_formatted%` - The player bounty formatted - Ex: 100k
+* `%rkp_kills%` - The total player's kills
+* `%rkp_deaths%` - The total player's deaths
+* `%rkp_streak%` - The player current kill streak
+* `%rkp_combat%` - The player combat cooldown
+* `%rkp_enderpearl%` - The player enderpearl cooldown
+* `%rkp_bounty%` - The player bounty as number - Ex: 100.000
+* `%rkp_bounty_formatted%` - The player bounty formatted - Ex: 100k
