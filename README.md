@@ -18,7 +18,7 @@ Download my plugin [here](https://discord.gg/AMt8KMuA)
 
 # - Information of Plugin -
 
-## ReforgedKitPvP - Permissions
+## ✨ Permissions
 
 * `reforgedkitpvp.dropsettings` - /dropsettings command
 * `reforgedkitpvp.admin` - /kitpvp command
@@ -32,28 +32,80 @@ Download my plugin [here](https://discord.gg/AMt8KMuA)
 * `reforgedkitpvp.setspawn` - Set spawn subcommand
 * `reforgedkitpvp.setstats` - Set stats subcommand
 
-## ReforgedKitPvP - Commands
+## 💻 Commands
 
-Main Commands:
+🏹 Main Commands:
 * `/kitpvp or /kp` - Main command
 * `/spawn` - Return to spawn
 * `/giveexp <player> <value>` - To give levels a player
 * `/fix or /fixall` - To open a Fix Inventory gui
 * `/dropsettings` - To open a Item Drops gui
 
-Sub Commands:
+⚔ Sub Commands:
 * `/kitpvp setspawn` - To set the spawn point
 * `/kitpvp setbounty <player> <value>` - To set the player bounty
 * `/kitpvp setstats <player> <kills>/<streak>/<deaths> <value>` - To set the player stats
 * `/kitpvp announce <message>` - To send an announce
 * `/kitpvp reload` - To reload the plugin
 
-## ReforgedKitPvP - Placeholders
+## 🧩 Placeholders
 
 * `%rkp_kills%` - The total player's kills
 * `%rkp_deaths%` - The total player's deaths
 * `%rkp_streak%` - The player current kill streak
-* `%rkp_combat%` - The player combat cooldown
-* `%rkp_enderpearl%` - The player enderpearl cooldown
-* `%rkp_bounty%` - The player bounty as number - Ex: 100.000
-* `%rkp_bounty_formatted%` - The player bounty formatted - Ex: 100k
+* `%rkp_combat%` - The player combat cooldown (15 seconds Default)
+* `%rkp_enderpearl%` - The player enderpearl cooldown (15 seconds Default)
+* `%rkp_bounty%` - The player bounty as number - Example: 100.000 or 100.000.000 ecc...
+* `%rkp_bounty_formatted%` - The player bounty formatted - Example: 100K or 100M ecc... | M = Million - K = thousand ecc...
+
+## 🔗 Features
+* Axe deal more damage to armor
+* EnderPearl & CombatLog cooldown with ActionBar configurable
+* Statistics Manager
+* Bounties
+* Spawn, FallDamage AntiBow on Spawn System
+* Respawn System (Return to spawn on death)
+* Give Effect, item and Command on Kill/Assist
+* Spawn protection
+* PotionStacker System
+* Level System (In maintenance)
+* Gems System with Shop (In maintenance)
+* Shop System with Swords/GoldenApple/EnchantedsBooks ecc... (In maintenance)
+* Clans/Gangs System (In maitenance & without database)
+* Crates System (In maintenance)
+* Ability (In maintenance)
+* TabList, Scoreboard, Announcements, AntiSwear, AntiWorldDownloader System (In maintenance)
+* TrashCan System (In maintenance)
+* PlayerVaults System (In maintenance)
+* AutoLapis, BuildMode and more System
+* Economy System with Vault no essentials required (In maintenance without database)
+* Kits System with GUI (In maintenance)
+* Holograms System (In maintenance)
+* LeaderBoards System (In maintenance)
+* Auctions System (In maintenance)
+* DropSettings System with GoldenApple, Arrow, Sword, Armor and Potions
+* AntiExploiting System MultiverseExploit/Fawe ecc...
+* NPC System (In maintenance)
+* CoinFlip System (In maintenance)
+* Menus System with your menu custom (In maintenance)
+* InventoryRollBack System (In maintenance)
+* Trade System (In maintenance)
+* Knockback with HitDelay System
+* Punch System
+* FixInventory System
+* UnbreakableAnvils System
+* Koth System
+* Events like Sumo/Koth/BowBoost System
+* WithDraw System
+* 1v1 Duel System
+* InstantRespawn System (Skip Death Screen)
+* First Join give Default kit
+* On Death give Default kit
+* Every 1 killstreak the console provides 200 money configurable
+* Every 5 killstreaks the console provides 1 diamond and commands of the configurable
+* ClearLag System
+* Disguise System
+* AntiPlugins System
+* Drugs System with Shop
+* Mask System with Shop
+* Rename System
