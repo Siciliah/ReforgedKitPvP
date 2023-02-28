@@ -1,20 +1,25 @@
-## ReforgedKitPvP
+## ABOUT
 
-ReforgedKitPvP is a open source project of an kitpvp plugin
+REFORGEDKITPVP THE BEST KITPVP PLUGIN
 
-# 🛒 Plugin Version
-
-ReforgedKitPvP v1.0.0 
+ReforgedKitPvP is a new generation kitpvp plugin for Spigot/Paper servers
+it is constantly updated, supports all 1.8.x versions.
+If you find a bug, please don't leave a bad review, I'm always on and I'm
+looking for bugs and i'm fixing them, if you message me on discord ( Siciliah#9579 )
+or on Pull Requests I will do my best to fix the bug as soon as possible!
+If you think there is something essential missing or something that could improve the
+plugin, send me a message on discord (Siciliah#9579) or on Pull Requests and I will see
+if I can add the feature. I've put a lot of time and effort into this plugin, I finally 
+believe it's complete, so if you leave a good review it would make me very happy :)
+The plugin version is currently 1.0.0
 
 # 💬 Discord
 
 You can come on the discord: https://discord.gg/AMt8KMuA
 
-## Please leave a ⭐ to help the project!
-
 # 📂 Download
 
-Download my plugin [here](https://discord.gg/AMt8KMuA)
+Buy my plugin [here](https://discord.gg/AMt8KMuA)
 
 # - Information of Plugin -
 
@@ -109,3 +114,5 @@ Download my plugin [here](https://discord.gg/AMt8KMuA)
 * Drugs System with Shop
 * Mask System with Shop
 * Rename System
+
+## Please leave a ⭐ to help the ReforgedKitPvP Project!
