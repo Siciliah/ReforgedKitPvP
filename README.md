@@ -52,11 +52,21 @@ Buy my plugin [here](https://discord.gg/AMt8KMuA)
 
 * `%rkp_kills%` - The total player's kills
 * `%rkp_deaths%` - The total player's deaths
-* `%rkp_streak%` - The player current kill streak
+* `%rkp_maxstreak%` - The total player kill streak
+* `%rkp_player_kills%` - The player current kills
+* `%rkp_player_deaths%` - The player current deaths
+* `%rkp_player_streak%` - The player current kill streak
 * `%rkp_combat%` - The player combat cooldown (15 seconds Default)
 * `%rkp_enderpearl%` - The player enderpearl cooldown (15 seconds Default)
+* `%rkp_booster%` - The player booster (1) cooldown (60 seconds Default)
+* `%rkp_booster2%` - The player booster (2) cooldown (120 seconds Default)
+* `%rkp_booster3%` - The player booster (3) cooldown (240 seconds Default)
+* `%rkp_booster3%` - The player booster (3) cooldown (240 seconds Default)
 * `%rkp_bounty%` - The player bounty as number - Example: 100.000 or 100.000.000 ecc...
 * `%rkp_bounty_formatted%` - The player bounty formatted - Example: 100K or 100M ecc... | M = Million - K = thousand ecc...
+* `%rkp_kit_kitname%` - Kits list placeholder
+* `%rkp_level%` - The player Level Placeholder
+* `%rkp_xp%` - The player XP placeholder
 * `%rkp_gang% or %rkp_clan%` - Gang/Clan player placeholder
 * `%rkp_money%` - Money placeholder
  
@@ -66,6 +76,7 @@ Buy my plugin [here](https://discord.gg/AMt8KMuA)
 * Statistics Manager
 * Bounties
 * Spawn, FallDamage AntiBow on Spawn System
+* Booster System (3 booster found)
 * Respawn System (Return to spawn on death)
 * Give Effect, item and Command on Kill/Assist
 * Spawn protection
