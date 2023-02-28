@@ -25,17 +25,9 @@ Buy my plugin [here](https://discord.gg/AMt8KMuA)
 
 ## ✨ Permissions
 
-* `reforgedkitpvp.dropsettings` - /dropsettings command
-* `reforgedkitpvp.admin` - /kitpvp command
-* `reforgedkitpvp.spawn` - /spawn command
-* `reforgedkitpvp.giveexp` - /giveexp command
-* `reforgedkitpvp.fix` - /fix command
-* `reforgedkitpvp.alert` - Alert subcommand
-* `reforgedkitpvp.build` - Build subcommand
-* `reforgedkitpvp.reload` - Reload subcommand
-* `reforgedkitpvp.setbounty` - Set bounty subcommand
-* `reforgedkitpvp.setspawn` - Set spawn subcommand
-* `reforgedkitpvp.setstats` - Set stats subcommand
+* `reforgedkitpvp.staff` - for all perms (/kitpvp | /dropsettings ecc...)
+* `reforgedkitpvp.spawn` - /spawn perms
+* `reforgedkitpvp.reload` - /kitpvp reload perms
 
 ## 💻 Commands
 
@@ -45,13 +37,16 @@ Buy my plugin [here](https://discord.gg/AMt8KMuA)
 * `/giveexp <player> <value>` - To give levels a player
 * `/fix or /fixall` - To open a Fix Inventory gui
 * `/dropsettings` - To open a Item Drops gui
-
-⚔ Sub Commands:
-* `/kitpvp setspawn` - To set the spawn point
-* `/kitpvp setbounty <player> <value>` - To set the player bounty
-* `/kitpvp setstats <player> <kills>/<streak>/<deaths> <value>` - To set the player stats
-* `/kitpvp announce <message>` - To send an announce
-* `/kitpvp reload` - To reload the plugin
+* `/npc help` - Npc command
+* `/ah` - Auction command
+* `/holograms help` - Holograms command
+* `/ability help` - Ability command
+* `/clan help or /gang help` - Gangs/Clans command with GUI
+* `/pot or /stack` - PotionStacker command
+* `/shop` - Shop command
+* `/gemshop` - Gem Shop command
+* `/trade` - Trade command
+* `/coinflip` - CoinFlip command
 
 ## 🧩 Placeholders
 
@@ -62,7 +57,9 @@ Buy my plugin [here](https://discord.gg/AMt8KMuA)
 * `%rkp_enderpearl%` - The player enderpearl cooldown (15 seconds Default)
 * `%rkp_bounty%` - The player bounty as number - Example: 100.000 or 100.000.000 ecc...
 * `%rkp_bounty_formatted%` - The player bounty formatted - Example: 100K or 100M ecc... | M = Million - K = thousand ecc...
-
+* `%rkp_gang% or %rkp_clan%` - Gang/Clan player placeholder
+* `%rkp_money%` - Money placeholder
+ 
 ## 🔗 Features
 * Axe deal more damage to armor
 * EnderPearl & CombatLog cooldown with ActionBar configurable
