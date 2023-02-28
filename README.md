@@ -69,6 +69,8 @@ Buy my plugin [here](https://discord.gg/AMt8KMuA)
 * `%rkp_xp%` - The player XP placeholder
 * `%rkp_gang% or %rkp_clan%` - Gang/Clan player placeholder
 * `%rkp_money%` - Money placeholder
+* `%rkp_player%` - Player Name placeholder
+* `%rkp_online%` - Player Online placeholder
  
 ## 🔗 Features
 * Axe deal more damage to armor
