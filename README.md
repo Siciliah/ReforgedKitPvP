@@ -1,6 +1,8 @@
+## PS: Plugin Abandoned forever
+
 ## ABOUT
 
-REFORGEDKITPVP THE BEST KITPVP PLUGIN
+REFORGEDKITPVP THE BEST KITPVP PLUGIN (Abandoned forever)
 
 ReforgedKitPvP is a new generation kitpvp plugin for Spigot/Paper servers
 it is constantly updated, supports all 1.8.x versions.
